@@ -25,8 +25,8 @@ char pass[] = "yyyyyyyyy"; // Passowrd here
 
 // Used ThingSpeak Server since its online otherwise devices present on the home network could only access the data
 
-unsigned long Channel_ID = 12345; // Channel ID
-const char * myWriteAPIKey = "ABCDEF12345"; //Your write API key
+unsigned long Channel_ID = zzzzzz; // Channel ID
+const char * myWriteAPIKey = "WWWWWWWWWW"; //Your write API key
 const int field_for_temp = 1;
 const int field_for_people = 2;
 
