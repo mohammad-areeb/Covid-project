@@ -35,5 +35,3 @@ The system performs the following functions:
 ## Note
 - Ensure that you have installed the necessary libraries (`DHT`, `ThingSpeak`, `SoftwareSerial`, `Wire`, `LiquidCrystal_I2C`) before uploading the code.
 - This code is specifically tailored for ESP8266 or ESP32 boards. Adjustments may be required for compatibility with other Arduino boards.
-
-Feel free to modify and enhance the code according to your specific requirements. For any issues or suggestions, please open an issue in this repository.v
